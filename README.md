@@ -1,11 +1,20 @@
 # video-app-test
 
+# Build instruction
+
+1. Open videoAppTest.xcworkspace
+2. Change bundle identifier with any string
+3. Change developer team with your Apple ID account
+
+<img src="https://i.imgur.com/r22AMeC.png" width="750">
+
+
 Screenshot potrait :
 
-![preview1](http://i.imgur.com/eTfughB.jpg) ![preview2](http://i.imgur.com/zvW5bqz.jpg)
+<img src="http://i.imgur.com/eTfughB.jpg" width="300"> <img src="http://i.imgur.com/zvW5bqz.jpg" width="300">
 
 Screenshot landscape :
 
-![preview3](http://i.imgur.com/LSoykmo.jpg)
+<img src="http://i.imgur.com/LSoykmo.jpg" height="300">
 
-![preview4](http://i.imgur.com/4KtrFb7.jpg)
+<img src="http://i.imgur.com/4KtrFb7.jpg" height="300">
