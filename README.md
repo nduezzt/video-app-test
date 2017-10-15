@@ -1,3 +1,7 @@
 # video-app-test
 
-https://drive.google.com/open?id=0B8ecZLFs7kR3VHZQQ2U5TWxWa2M
+http://i.imgur.com/LSoykmo.jpg
+http://i.imgur.com/4KtrFb7.jpg
+
+http://i.imgur.com/eTfughB.jpg
+http://i.imgur.com/zvW5bqz.jpg
