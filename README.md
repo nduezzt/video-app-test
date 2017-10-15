@@ -2,12 +2,10 @@
 
 Screenshot potrait :
 
-![alt tag](http://i.imgur.com/eTfughB.jpg)
-
-![alt tag](http://i.imgur.com/zvW5bqz.jpg)
+![preview1](http://i.imgur.com/eTfughB.jpg) ![preview2](http://i.imgur.com/zvW5bqz.jpg)
 
 Screenshot landscape :
 
-![alt tag](http://i.imgur.com/LSoykmo.jpg)
+![preview3](http://i.imgur.com/LSoykmo.jpg)
 
-![alt tag](http://i.imgur.com/4KtrFb7.jpg)
+![preview4](http://i.imgur.com/4KtrFb7.jpg)
