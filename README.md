@@ -1,11 +1,13 @@
 # video-app-test
 
-screenshot 1 :
+Screenshot potrait :
 
-http://i.imgur.com/LSoykmo.jpg
+![alt tag](http://i.imgur.com/eTfughB.jpg)
 
-http://i.imgur.com/4KtrFb7.jpg
+![alt tag](http://i.imgur.com/zvW5bqz.jpg)
 
-http://i.imgur.com/eTfughB.jpg
+Screenshot landscape :
 
-http://i.imgur.com/zvW5bqz.jpg
+![alt tag](http://i.imgur.com/LSoykmo.jpg)
+
+![alt tag](http://i.imgur.com/4KtrFb7.jpg)
